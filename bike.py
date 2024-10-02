@@ -81,3 +81,4 @@ class bike:
             print(f"Gear decreased to: {self.__current_gear}")
         else:
             print("Cannot decrease gear. Already at minimum gear: 1.")
+

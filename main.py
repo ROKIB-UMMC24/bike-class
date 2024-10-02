@@ -34,4 +34,3 @@ try:
     my_bike.setBrake("electric")  # Attempt to set an invalid brake type
 except ValueError as e:
     print(e)  # Print the error message if the brake type is invalid
-
